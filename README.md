@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **IT-EDUCATION Club**
 
-- 🌱 I’m currently learning **Android Programming, C#.Netm JAVA etc..**
+- 🌱 I’m currently learning **Android Programming, C#.Net, JAVA etc..**
 
 - 👯 I’m looking to collaborate on **IT-EDUCATION Club**
 
