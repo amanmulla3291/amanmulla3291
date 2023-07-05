@@ -6,13 +6,13 @@
 
 <p align="left"> <a href="https://twitter.com/amanmullaoffi" target="blank"><img src="https://img.shields.io/twitter/follow/amanmullaoffi?logo=twitter&style=for-the-badge" alt="amanmullaoffi" /></a> </p>
 
-- 🔭 I’m currently working on **IT-EDUCATION Club**
+- 🔭 I’m currently working on **The Build Bytes Club**
 
 - 🌱 I’m currently learning **Android Programming, C#.Net, JAVA etc..**
 
-- 👯 I’m looking to collaborate on **IT-EDUCATION Club**
+- 👯 I’m looking to collaborate on **The Build Bytes Club**
 
-- 🤝 I’m looking for help with **IT-EDUCATION Club**
+- 🤝 I’m looking for help with **The Build Bytes Club**
 
 - 📝 I regularly write articles on [https://amanmullaofficial.medium.com/](https://amanmullaofficial.medium.com/)
 
