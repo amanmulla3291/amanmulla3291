@@ -26,7 +26,7 @@
 <p align="left">
 <a href="https://twitter.com/amanmullaoffi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="amanmullaoffi" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/aman-mulla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aman-mulla" height="30" width="40" /></a>
-<a href="https://instagram.com/amanmullaofficial.py" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="amanmullaofficial.py" height="30" width="40" /></a>
+<a href="https://instagram.com/amanmulla.in" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="amanmulla.in" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
